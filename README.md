@@ -240,13 +240,6 @@ The app displays:
 - Legal, healthcare, and finance document QA validation
 - AI response quality monitoring
 - GenAI reliability testing
-
----
-
-## 🧾 Resume Bullet
-
-Designed and developed a GenAI reliability evaluation dashboard using **Python, Streamlit, OpenAI, Pandas, and Plotly** to measure LLM response faithfulness, answer relevance, context relevance, hallucination risk, and unsupported claims for RAG-based applications.
-
 ---
 
 ## ⭐ Why This Project Matters
