@@ -1,6 +1,9 @@
 import json
+from dotenv import load_dotenv
 from openai import OpenAI
 from src.prompts import EVALUATION_PROMPT
+
+load_dotenv()
 
 client = OpenAI()
 
